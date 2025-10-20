@@ -1,0 +1,14 @@
+C:\dev\BoletimEscolar\bin\Debug\net9.0\BoletimEscolar.exe
+C:\dev\BoletimEscolar\bin\Debug\net9.0\BoletimEscolar.deps.json
+C:\dev\BoletimEscolar\bin\Debug\net9.0\BoletimEscolar.runtimeconfig.json
+C:\dev\BoletimEscolar\bin\Debug\net9.0\BoletimEscolar.dll
+C:\dev\BoletimEscolar\bin\Debug\net9.0\BoletimEscolar.pdb
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.AssemblyInfoInputs.cache
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.AssemblyInfo.cs
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.csproj.CoreCompileInputs.cache
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.dll
+C:\dev\BoletimEscolar\obj\Debug\net9.0\refint\BoletimEscolar.dll
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.pdb
+C:\dev\BoletimEscolar\obj\Debug\net9.0\BoletimEscolar.genruntimeconfig.cache
+C:\dev\BoletimEscolar\obj\Debug\net9.0\ref\BoletimEscolar.dll

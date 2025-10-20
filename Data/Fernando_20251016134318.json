@@ -1,0 +1,60 @@
+{
+  "StudentName": "Fernando",
+  "Subjects": [
+    {
+      "Name": "Portug\u00EAs",
+      "Grades": [
+        9,
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "Name": "Matematica",
+      "Grades": [
+        6,
+        7,
+        7,
+        6
+      ]
+    },
+    {
+      "Name": "Geografia",
+      "Grades": [
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "Name": "Biologia",
+      "Grades": [
+        7,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "Name": "Ingles",
+      "Grades": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "Name": "Ed. Fisica",
+      "Grades": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  ],
+  "CreatedAt": "2025-10-16T13:28:31.234118Z"
+}
