@@ -40,4 +40,12 @@ System.Tect.Json = Biblioteca nativa .NET para a serializção e deserializaçã
 
 Pré Requisitos .NET SDK
 
-1- git clone 
+1- git clone https://github.com/Feernnando/BoletimEscolar
+
+2 - Navegue até a pasta pelo Terminal - CD BoletimEscolar
+
+3 - Execute a aplicação - dotnet run
+
+
+Autor : Fernando Ferreira
+

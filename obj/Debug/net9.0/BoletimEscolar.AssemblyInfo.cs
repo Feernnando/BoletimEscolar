@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletimEscolar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4dc541c39a84014cd8c7bddf731c842a586113")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletimEscolar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletimEscolar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
